@@ -6,7 +6,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Escalei API",
-  description: "Plataforma de Gest„o de Escalas",
+  description: "Plataforma de Gest√£o de Escalas",
 };
 
 export default function RootLayout({
